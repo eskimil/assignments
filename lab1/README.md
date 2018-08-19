@@ -1,4 +1,4 @@
-![UiS](https://www.uis.no/getfile.php/13404099/Biblioteket/Logo%20og%20veiledninger/UiS_main_logo.png)
+![UiS](https://www.uis.no/getfile.php/13391907/Biblioteket/Logo%20og%20veiledninger/UiS_liggende_logo_liten.png)
 
 # Lab 1: Unix, programming tools and C
 
