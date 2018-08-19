@@ -5,7 +5,7 @@
 | Lab 3:		| Network Programming in Go		|
 | -------------------- 	| ------------------------------------- |
 | Subject: 		| DAT320 Operating Systems 		|
-| Deadline:		| Sep 24 2018 16:00			|
+| Deadline:		| Sep 28 2018 16:00			|
 | Expected effort:	| 10-15 hours 				|
 | Grading: 		| Pass/fail 				|
 | Submission: 		| Individually				|
