@@ -1,11 +1,11 @@
-![UiS](http://www.ux.uis.no/~telea/uis-logo-en.png)
+![UiS](https://www.uis.no/getfile.php/13391907/Biblioteket/Logo%20og%20veiledninger/UiS_liggende_logo_liten.png)
 
 # Lab 2: Introduction to Go Programming
 
 | Lab 2:		|  Introduction to Go Programming	|
 | -------------------- 	| ------------------------------------- |
 | Subject: 		| DAT320 Operating Systems 		|
-| Deadline:		| Sep 15 2017 23:00			|
+| Deadline:		| Sep 14 2017 16:00			|
 | Expected effort:	| 10-15 hours 				|
 | Grading: 		| Pass/fail 				|
 | Submission: 		| Individually				|
