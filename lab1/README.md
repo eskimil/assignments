@@ -1,11 +1,11 @@
-![UiS](http://www.ux.uis.no/~telea/uis-logo-en.png)
+![UiS](https://www.uis.no/getfile.php/13404099/Biblioteket/Logo%20og%20veiledninger/UiS_main_logo.png)
 
 # Lab 1: Unix, programming tools and C
 
 | Lab 1:		| Unix, programming tools and C		|
 | -------------------- 	| ------------------------------------- |
 | Subject: 		| DAT320 Operating Systems 		|
-| Deadline:		| Sep 1 2017 23:00			|
+| Deadline:		| Aug 31 2018 16:00			|
 | Expected effort:	| 10-15 hours 				|
 | Grading: 		| Pass/fail 				|
 | Submission: 		| Individually				|
