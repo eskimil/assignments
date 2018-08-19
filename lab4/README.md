@@ -1,11 +1,11 @@
-![UiS](http://www.ux.uis.no/~telea/uis-logo-en.png)
+![UiS](https://www.uis.no/getfile.php/13391907/Biblioteket/Logo%20og%20veiledninger/UiS_liggende_logo_liten.png)
 
 # Lab 4: Data Race Detection & Profiling
 
 | Lab 4:		| Data Race Detection & Profiling		|
 | -------------------- 	| ------------------------------------- |
 | Subject: 		| DAT320 Operating Systems 		|
-| Deadline:		| Oct 6th 2017 23:00			|
+| Deadline:		| Oct 12th 2018 16:00			|
 | Expected effort:	| 10-15 hours 				|
 | Grading: 		| Pass/fail 				|
 | Submission: 		| Individually				|
