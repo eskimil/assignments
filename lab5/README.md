@@ -1,11 +1,11 @@
-![UiS](http://www.ux.uis.no/~telea/uis-logo-en.png)
+![UiS](https://www.uis.no/getfile.php/13391907/Biblioteket/Logo%20og%20veiledninger/UiS_liggende_logo_liten.png)
 
 # Lab 5: Threads and Protection
 
 | Lab 5:		| Threads and Protection		|
 | -------------------- 	| ------------------------------------- |
 | Subject: 		| DAT320 Operating Systems 		|
-| Deadline:		| Oct 20th 2017 23:00			|
+| Deadline:		| Oct 26th 2018 16:00			|
 | Expected effort:	| 10-15 hours 				|
 | Grading: 		| Pass/fail 				|
 | Submission: 		| Individually				|
