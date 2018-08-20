@@ -136,7 +136,7 @@ For later lookup, a more condensed tutorial can be found [here](https://csg.sph.
 
 **Shell questions**
 ```
-1.) Which command lists the sizes of all the files and folders in top level of the current directory in human readable format?
+1.) Which command lists the sizes of all the files and folders in top level of the current directory in human readable format? Note that if you are using max command line option for depth is -d.
 	a. du -h -l .
 	b. du -h -–max-depth=1 .
 	c. du --max-depth=1
