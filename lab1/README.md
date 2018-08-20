@@ -614,7 +614,7 @@ otherwise noted.
    implementation. Not all tests must pass to get a passing grade.
 
 11. In the following, we will use `hello.c` as an example. Change directory to:
-   `cd $GOPATH/src/github.com/uis-dat320-fall18/labs/lab1` and confirm that the files
+   `cd $GOPATH/src/github.com/uis-dat320-fall18/assignments/lab1` and confirm that the files
    for lab1 resides in that folder. They should, assuming that you ran the `go
    get` command earlier.
 
@@ -626,7 +626,7 @@ otherwise noted.
 14. Using `hello.c` as an example, use the following
     procedure to commit and push your changes to GitHub and Autograder:
     ```
-    $ cd $GOPATH/src/github.com/uis-dat320-fall18/labs/lab1
+    $ cd $GOPATH/src/github.com/uis-dat320-fall18/assignments/lab1
     $ git add hello.c
     $ git commit
     // This will open an editor for you to write a commit message
