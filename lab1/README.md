@@ -138,9 +138,9 @@ For later lookup, a more condensed tutorial can be found [here](https://csg.sph.
 ```
 1.) Which command lists the sizes of all the files and folders in top level of the current directory in human readable format?
 	a. du -h -l .
-	b. du -h –max-depth=1 .
-	c. du –max-depth=1
-	d. du -h -a –max-depth=1 .
+	b. du -h -–max-depth=1 .
+	c. du --max-depth=1
+	d. du -h -a --max-depth=1 .
 
 2.) Which command continously prints the contents of a file named file.txt in real time while its contents are being modified by some other process?
 	a. cat file.txt
