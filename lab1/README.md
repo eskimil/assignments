@@ -12,15 +12,15 @@
 
 ### Table of Contents
 
-1. [Introduction](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#introduction)
-2. [The Linux Lab](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#the-linux-lab)
-3. [Remote Login with Secure SHell](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#remote-login-with-secure-shell)
-4. [Basic Unix commands](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#basic-unix-commands)
-5. [The vi / vim editor](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#the-vi--vim-editor)
-6. [Git and GitHub](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#git-and-github)
-7. [The C language](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#the-c-language)
-8. [Submitting the lab](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#submitting-the-lab)
-9. [Lab Approval](https://github.com/uis-dat320-fall18/labs/blob/master/lab1/README.md#lab-approval)
+1. [Introduction](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#introduction)
+2. [The Linux Lab](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#the-linux-lab)
+3. [Remote Login with Secure SHell](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#remote-login-with-secure-shell)
+4. [Basic Unix commands](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#basic-unix-commands)
+5. [The vi / vim editor](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#the-vi--vim-editor)
+6. [Git and GitHub](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#git-and-github)
+7. [The C language](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#the-c-language)
+8. [Submitting the lab](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#submitting-the-lab)
+9. [Lab Approval](https://github.com/uis-dat320-fall18/assignments/blob/master/lab1/README.md#lab-approval)
 
 ## Introduction
 
