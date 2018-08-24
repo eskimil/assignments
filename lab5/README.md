@@ -13,11 +13,11 @@
 
 ### Table of Contents
 
-1. [Introduction](https://github.com/uis-dat320-fall18/labs/blob/master/lab5/README.md#introduction)
-2. [Condition Variables](https://github.com/uis-dat320-fall18/labs/blob/master/lab5/README.md#condition-variables)
-3. [Job Scheduler](https://github.com/uis-dat320-fall18/labs/blob/master/lab5/README.md#job-scheduler)
-4. [Trace Tool](https://github.com/uis-dat320-fall18/labs/blob/master/lab5/README.md#trace-tool)
-5. [Lab Approval](https://github.com/uis-dat320-fall18/labs/blob/master/lab5/README.md#lab-approval)
+1. [Introduction](https://github.com/uis-dat320-fall18/assignments/blob/master/lab5/README.md#introduction)
+2. [Condition Variables](https://github.com/uis-dat320-fall18/assignments/blob/master/lab5/README.md#condition-variables)
+3. [Job Scheduler](https://github.com/uis-dat320-fall18/assignments/blob/master/lab5/README.md#job-scheduler)
+4. [Trace Tool](https://github.com/uis-dat320-fall18/assignments/blob/master/lab5/README.md#trace-tool)
+5. [Lab Approval](https://github.com/uis-dat320-fall18/assignments/blob/master/lab5/README.md#lab-approval)
 
 
 ## Introduction

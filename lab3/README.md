@@ -12,10 +12,10 @@
 
 ### Table of Contents
 
-1. [Introduction](https://github.com/uis-dat320-fall18/labs/blob/master/lab3/README.md#introduction)
-2. [UDP Echo Server](https://github.com/uis-dat320-fall18/labs/blob/master/lab3/README.md#udp-echo-server)
-3. [Remote Procedure Call](https://github.com/uis-dat320-fall18/labs/blob/master/lab3/README.md#remote-procedure-call)
-4. [Lab Approval](https://github.com/uis-dat320-fall18/labs/blob/master/lab3/README.md#lab-approval)
+1. [Introduction](https://github.com/uis-dat320-fall18/assignments/blob/master/lab3/README.md#introduction)
+2. [UDP Echo Server](https://github.com/uis-dat320-fall18/assignments/blob/master/lab3/README.md#udp-echo-server)
+3. [Remote Procedure Call](https://github.com/uis-dat320-fall18/assignments/blob/master/lab3/README.md#remote-procedure-call)
+4. [Lab Approval](https://github.com/uis-dat320-fall18/assignments/blob/master/lab3/README.md#lab-approval)
 
 ## Introduction
 
@@ -147,7 +147,7 @@ import (
 )
 
 // UDPServer implements the UDP server specification found at
-// https://github.com/uis-dat320-fall18/labs/blob/master/lab3/README.md#echo-server-specification
+// https://github.com/uis-dat320-fall18/assignments/blob/master/lab3/README.md#echo-server-specification
 type UDPServer struct {
 	conn *net.UDPConn
 	// TODO(student): Add fields if needed

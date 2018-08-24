@@ -9,7 +9,7 @@ import (
 )
 
 // UDPServer implements the UDP server specification found at
-// https://github.com/uis-dat320-fall18/labs/blob/master/lab3/README.md#echo-server-specification
+// https://github.com/uis-dat320-fall18/assignments/blob/master/lab3/README.md#echo-server-specification
 type UDPServer struct {
 	conn *net.UDPConn
 	// TODO(student): Add fields if needed

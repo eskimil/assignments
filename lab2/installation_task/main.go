@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/uis-dat320-fall18/labs/lab2/installation_task/config"
+	"github.com/uis-dat320-fall18/assignments/lab2/installation_task/config"
 )
 
 var (

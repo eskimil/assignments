@@ -12,12 +12,12 @@
 
 ### Table of Contents
 
-1. [Introduction](https://github.com/uis-dat320-fall18/labs/blob/master/lab2/README.md#introduction)
-2. [The Go Language](https://github.com/uis-dat320-fall18/labs/blob/master/lab2/README.md#the-go-language)
-3. [Writing Go Code](https://github.com/uis-dat320-fall18/labs/blob/master/lab2/README.md#writing-go-code)
-4. [Installing and Running Go Code](https://github.com/uis-dat320-fall18/labs/blob/master/lab2/README.md#installing-and-running-go-code)
-5. [Go Exercises](https://github.com/uis-dat320-fall18/labs/blob/master/lab2/README.md#go-exercises)
-6. [Lab Approval](https://github.com/uis-dat320-fall18/labs/blob/master/lab2/README.md#lab-approval)
+1. [Introduction](https://github.com/uis-dat320-fall18/assignments/blob/master/lab2/README.md#introduction)
+2. [The Go Language](https://github.com/uis-dat320-fall18/assignments/blob/master/lab2/README.md#the-go-language)
+3. [Writing Go Code](https://github.com/uis-dat320-fall18/assignments/blob/master/lab2/README.md#writing-go-code)
+4. [Installing and Running Go Code](https://github.com/uis-dat320-fall18/assignments/blob/master/lab2/README.md#installing-and-running-go-code)
+5. [Go Exercises](https://github.com/uis-dat320-fall18/assignments/blob/master/lab2/README.md#go-exercises)
+6. [Lab Approval](https://github.com/uis-dat320-fall18/assignments/blob/master/lab2/README.md#lab-approval)
 
 ## Introduction
 
@@ -158,19 +158,19 @@ only provide API functions, and no main function, then this is the way to compil
 it. So at this point, you can do the following to install the lab2 config package (again this step
 is optional):
 
-`go install github.com/uis-dat320-fall18/labs/lab2/installation_task/config`
+`go install github.com/uis-dat320-fall18/assignments/lab2/installation_task/config`
 
 which will compile and install the files from the config directory as a library named
 config.a in a subfolder of the pkg directory, which you can inspect as follows:
 
-`ls -laR $GOPATH/pkg/linux_amd64/github.com/uis-dat320-fall18/labs/lab2/installation_task`
+`ls -laR $GOPATH/pkg/linux_amd64/github.com/uis-dat320-fall18/assignments/lab2/installation_task`
 
 Running go install compiles the package named on the command line (as shown above
 with the config package.) However, the main.go file declares, package main in the first few
 lines, and also contains a main() function. For this case we can do several things, all of which
 produces runnable code, as outlined below:
 
-`go install github.com/uis-dat320-fall18/labs/lab2/installation_task`
+`go install github.com/uis-dat320-fall18/assignments/lab2/installation_task`
 
 which will compile and install a binary executable file called lab2 in $GOPATH/bin. Note
 that lab2 is the name of the directory in which the main package is found, and is also given as
@@ -180,14 +180,14 @@ the last element of the path to the go install command. To run it simply do:
 
 Or you can also do:
 ```
-cd $GOPATH/src/github.com/uis-dat320-fall18/labs/lab2/installation_task
+cd $GOPATH/src/github.com/uis-dat320-fall18/assignments/lab2/installation_task
 go build .
 ./installation_task
 ```
 which will compile/build a binary executable file called lab2, save it in the current directory,
 and finally run it. Or you can do:
 ```
-cd $GOPATH/src/github.com/uis-dat320-fall18/labs/lab2/installation_task
+cd $GOPATH/src/github.com/uis-dat320-fall18/assignments/lab2/installation_task
 go run main.go
 ```
 All these should result in the same output:
@@ -213,7 +213,7 @@ convenient.
 ## Go Exercises
 
 1. In the following, we will use **Task 1** as an example. Change directory to:
-   `cd $GOPATH/src/github.com/uis-dat320-fall18/labs/lab2` and confirm that the files
+   `cd $GOPATH/src/github.com/uis-dat320-fall18/assignments/lab2` and confirm that the files
    for lab2 resides in that folder. They should, assuming that you ran the `go
    get` command in lab 1. The file `fib.go` contain the following skeleton code:
 
@@ -283,7 +283,7 @@ convenient.
 6. Using the Fibonacci task (`fib.go`) as an example, use the following
     procedure to commit and push your changes to GitHub and Autograder:
     ```
-    $ cd $GOPATH/src/github.com/uis-dat320-fall18/labs/lab2
+    $ cd $GOPATH/src/github.com/uis-dat320-fall18/assignments/lab2
     $ git add fib.go
     $ git commit
     // This will open an editor for you to write a commit message
@@ -308,7 +308,7 @@ convenient.
     CONFLICT (add/add): Merge conflict in README.md
     Automatic merge failed; fix conflicts and then commit the result.
     ...
-    $ cd $GOPATH/src/github.com/uis-dat320-fall18/labs
+    $ cd $GOPATH/src/github.com/uis-dat320-fall18/assignments
     $ nano README.md
     // Remove everything in the file, then add for example "username-labs" to the file.
     // Save and exit.
