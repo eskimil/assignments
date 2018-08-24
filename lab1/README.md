@@ -567,13 +567,13 @@ otherwise noted.
 	1. `ls -la $GOPATH` (make sure that this is a real directory)
 	2. `mkdir -p $GOPATH/src/github.com/uis-dat320-fall18`
 	3. `cd $GOPATH/src/github.com/uis-dat320-fall18`
-	4. `git clone https://github.com/uis-dat320-fall18/labs.git`
+	4. `git clone https://github.com/uis-dat320-fall18/assignments.git`
 	5. You will be asked for your GitHub user name and password
 	6. Continue in Step 6 below
   
 4. (Option 2) Using the `go get` command on the command line.
 	1. `ls -la $GOPATH` (make sure that this is a real directory)
-	2. `go get github.com/uis-dat320-fall18/labs` 
+	2. `go get github.com/uis-dat320-fall18/assignments` 
 	3. You will be asked for your GitHub user name and password
 	4. (ignore the warning message about no buildable Go files)
 	5. Continue in Step 6 below
