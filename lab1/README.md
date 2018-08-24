@@ -588,7 +588,7 @@ otherwise noted.
 
 7. Now we need to set up your own remote so that you can make changes and push 
    those changes to your own copy of the repo. Follow these instructions:
-	1. `cd $GOPATH/src/github.com/uis-dat320-fall18/labs`.
+	1. `cd $GOPATH/src/github.com/uis-dat320-fall18/assignments`.
 	2. `git remote add labs https://github.com/uis-dat320-fall18/username-labs` 
      where `username` should be replaced with your own GitHub username.
 	3. The above command adds your own `username-labs` repository as a remote
@@ -651,7 +651,7 @@ otherwise noted.
     CONFLICT (add/add): Merge conflict in README.md
     Automatic merge failed; fix conflicts and then commit the result.
     ...
-    $ cd $GOPATH/src/github.com/uis-dat320-fall18/labs
+    $ cd $GOPATH/src/github.com/uis-dat320-fall18/assignments
     $ vi README.md
     // Remove everything in the file, then add for example "username-labs" to the file.
     // Save and exit.
